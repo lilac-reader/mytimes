@@ -1,6 +1,6 @@
 body {margin: 0;}
 
-.logo {float:left}
-.nav{float:right}
+.logo {display:block; float:left}
+.nav{float:right; display:inline-block;}
 
 div.container{display:flex; flex-wrap:wrap;}
