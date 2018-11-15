@@ -4,4 +4,6 @@ body {margin: 0;}
 .logo p{  font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
-color:mediumaquamarine;}
+color:mediumaquamarine;display:inline-flex;}
+
+.nav span{padding:20px;}
