@@ -1,6 +1,7 @@
 body {margin: 0;}
 
-.logo {display:block; float:left}
-.nav{float:right; display:inline-block;}
-
-div.container{display:flex; flex-wrap:wrap;}
+.container{display:flex; justify-content: space-between;}
+.logo p{  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+color:mediumaquamarine;}
