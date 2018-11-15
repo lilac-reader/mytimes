@@ -6,4 +6,6 @@ body {margin: 0;}
   font-weight: bold;
 color:mediumaquamarine;display:inline-flex;}
 
-.nav span{padding:20px;}
+.nav span{padding:25px;  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;}
