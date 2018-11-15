@@ -4,8 +4,8 @@ body {margin: 0;}
 .logo p{  font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
-color:mediumaquamarine;display:inline-flex;}
+color:mediumaquamarine;display:inline-flex;align-items:center;}
 
 .nav span{padding:25px;  font-family: Verdana;
   font-size: 14px;
-  font-weight: bold;}
+  font-weight: bold; align-items:center;}
