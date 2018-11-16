@@ -24,4 +24,4 @@ color:mediumaquamarine;display:inline-flex;align-items:center;}
 .small {display:flex;flex-direction:column;
   width: 240px;
 }
-.content{display:flex;flex-direction:row;}
+.column{display:inline-flex;}
