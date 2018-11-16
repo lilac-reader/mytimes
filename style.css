@@ -25,3 +25,27 @@ color:mediumaquamarine;display:inline-flex;align-items:center;}
   width: 240px;
 }
 .column{display:inline-flex;}
+.main-content{display:flex;justify-content:space-around;}
+
+.headline{  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white; height:300px;}
+
+.image-headline{  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+text-align:center; height:300px;}
+
+.fall-story{background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);}
+
+.hipster-cameraman{background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);}
+
+.main-story{background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png)}
+
+.cat-ceo{background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);}
+
+.story-content{  font-family: Georgia;
+  font-size: 17px;
+  color: black;}
